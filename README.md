@@ -27,3 +27,14 @@ Guide Steps to set in local system.
 6.Run on sql section in xampp (It creates user table and put some data into table).
 
 7.Then run on browser.
+
+8.Few Images
+
+![image](https://user-images.githubusercontent.com/115968261/231731586-5052bdcf-5d30-4ca9-8b69-7e6845b2b193.png)
+
+
+![image](https://user-images.githubusercontent.com/115968261/231731537-3e45ee20-a426-44c1-ac43-25e9d4b769ee.png)
+
+![image](https://user-images.githubusercontent.com/115968261/231731645-28bdf5bf-186e-4df4-a462-4d2c7b63fdca.png)
+
+
